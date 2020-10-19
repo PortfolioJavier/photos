@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Javier Rivas
 email: ""
-description: "Photo Journal"
-url: "https://javimetall.github.io"
-baseurl: "/portfolio"
+description: "Fotografías"
+url: "https://portfoliojavier.github.io"
+baseurl: "/photos"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Javier Rivas
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Portfolio de Fotografías
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
