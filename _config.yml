@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://portfoliojavier.github.io/photos/gallery/"  
+  - Galería: "https://portfoliojavier.github.io/photos/gallery/"  
   #- JOURNAL: "https://portfoliojavier.github.io/photorama/journal/"
-  - ABOUT: "https://portfoliojavier.github.io/photos/about/"
+  - Sobre mí: "https://portfoliojavier.github.io/photos/about/"
 
 # All translation keys
 translations:
