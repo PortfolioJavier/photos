@@ -33,6 +33,7 @@ comments :
 
 # Internal nav
 nav:
+  - Home: "https://portfoliojavier.github.io/photos/"
   - Galería: "https://portfoliojavier.github.io/photos/gallery/"  
   #- JOURNAL: "https://portfoliojavier.github.io/photorama/journal/"
   - Sobre mí: "https://portfoliojavier.github.io/photos/about/"
