@@ -74,7 +74,8 @@
 </span>
           </a> </li>
 
-         <li>
+{% comment %}                        
+                    <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}" data-toggle="tooltip" title="Feed">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -82,6 +83,7 @@
                             </span>
                         </a>
                     </li>
+{% endcomment %}                        
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
 <center><h6><p>Designed by <a href="https://github.com/sunbliss">sunbliss</a>   -   Adapted by <a href="https://github.com/bronxi47">bronxi</a></p></h6></center>
