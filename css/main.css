@@ -23,6 +23,7 @@ h6 {
 
 h4{
   text-align: justify;
+  line-height: 2.3rem;
 }
 
 a {
@@ -409,4 +410,9 @@ body {
 }
 .fa-stack-2x {
  color: black;
+}
+.imgabout {
+max-width: 42rem;
+float: right;
+margin-left: 3rem;
 }
