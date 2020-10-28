@@ -14,12 +14,16 @@ p a {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+
+h5{
+  text-align: justify;
+}
+
 a {
   color: #337ab7;
   transition: color .4s;
@@ -115,7 +119,7 @@ hr.small {
   .navbar-custom.is-fixed .navbar-brand:hover {
     color: #1E8C93;
   }
-  
+
   .navbar-custom.is-fixed .nav li a:hover {
     color: #1E8C93;
   }
@@ -405,4 +409,3 @@ body {
 .fa-stack-2x {
  color: black;
 }
-
