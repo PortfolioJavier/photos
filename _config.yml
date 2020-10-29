@@ -2,7 +2,7 @@
 title: Javier Rivas
 email: "ja_an_ri@hotmail.com"
 description: "Fotografías"
-url: "https://portfoliojavier.github.io"
+url: "https://javirivas.com"
 baseurl: "/photos"
 facebook_username: "JaviRivas85"
 #twitter_username: ""
@@ -35,7 +35,6 @@ comments :
 nav:
   - Home: "https://portfoliojavier.github.io/photos/"
   - Galería: "https://portfoliojavier.github.io/photos/gallery/"  
-  #- JOURNAL: "https://portfoliojavier.github.io/photorama/journal/"
   - Sobre mí: "https://portfoliojavier.github.io/photos/about/"
 
 # All translation keys
