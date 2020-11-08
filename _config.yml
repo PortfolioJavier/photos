@@ -3,7 +3,7 @@ title: Javier Rivas
 email: "ja_an_ri@hotmail.com"
 description: "Fotografías"
 url: "https://javirivas.com"
-baseurl: "/"
+baseurl: ""
 facebook_username: "JaviRivas85"
 #twitter_username: ""
 instagram_username: "javier_rivas85"
@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - Home: "https://portfoliojavier.github.io/photos/"
-  - Galería: "https://portfoliojavier.github.io/photos/gallery/"  
+  - Galería: "https://portfoliojavier.github.io/photos/gallery/"
   - Sobre mí: "https://portfoliojavier.github.io/photos/about/"
 
 # All translation keys
@@ -56,7 +56,7 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
